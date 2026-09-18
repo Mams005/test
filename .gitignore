@@ -1,0 +1,8 @@
+# dépendances
+node_modules/
+vendor/
+# secrets
+.env
+# fichiers générés
+*.log
+.DS_Store
